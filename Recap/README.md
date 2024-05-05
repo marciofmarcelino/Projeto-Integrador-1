@@ -18,7 +18,7 @@ Ele permite que os moradores se cadastrem e relatem ocorrências, como buracos e
 ## Screenshots
 
 ![Login](images/login.png)
-![Cadastro](images/cadastro.png)
+![Cadastro](images/Cadastro.png)
 ![Menu](images/menu.png)
 ![Registrar Ocorrência](images/registrar_.png)
 ![Acompanhar Ocorrência](images/acompanhar.png)
